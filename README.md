@@ -1,7 +1,7 @@
 # City tours
 
-## User Users stories
-* Example, If user interested in New York user can check with more information.
+## Users stories
+* If user interested in New York user can check with more information.
 
 
 ## 3 options to setting up the folder structure
