@@ -1,5 +1,5 @@
 # City tours
-
+![city tours](tours.gif "city tours")
 ## Users stories
 * If user interested in New York user can check with more information.
 
